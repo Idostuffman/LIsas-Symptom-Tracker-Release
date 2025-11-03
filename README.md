@@ -1,4 +1,4 @@
-# LIsas-Symptom-Tracker-Release
+# Lisas-Symptom-Tracker-Release
 A mobile app built with React Native designed to help users track their daily mood, symptoms and potential triggers! All in a fun and user friendly way :>
 ---
 ## Features
@@ -49,5 +49,6 @@ A mobile app built with React Native designed to help users track their daily mo
 
 - Some layout issues on smaller screens  
 - Bug when removing symptoms from the quick list  
-- Occasional glitch with mood selector not updating properl
+- Occasional glitch with mood selector not updating properly
+- Notifactions aren't send out at the right time
 
